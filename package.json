@@ -1,0 +1,22 @@
+{
+  "name": "figma-react-icons",
+  "version": "0.1.0-alpha.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shamin",
+  "license": "MIT",
+  "dependencies": {
+    "@svgr/core": "^5.4.0",
+    "axios": "^0.21.0",
+    "bluebird": "^3.7.2",
+    "cli-progress": "^3.8.2",
+    "fs-extra": "^9.0.1",
+    "meow": "^8.0.0",
+    "svgo": "^1.3.2",
+    "yargs": "^16.1.0"
+  }
+}
