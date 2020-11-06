@@ -8,7 +8,7 @@ $ npm install --global figma-react-icons
 
 ## How to use
 
-You will need to have a figma access token, you can get it from here `https://www.figma.com/developers/api#authentication`.
+You will need to have a figma access token, you can get it from [here](https://www.figma.com/developers/api#authentication).
 
 You can get the file id and node id from the figma url.
 
