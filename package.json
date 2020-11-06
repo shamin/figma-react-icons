@@ -1,12 +1,12 @@
 {
   "name": "figma-react-icons",
-  "version": "0.1.0-alpha.0",
+  "version": "0.1.0-alpha.2",
   "description": "CLI to generate react icon component files from figma",
   "license": "MIT",
   "repository": "shamin/figma-react-icons",
-  "main": "src/cli.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "lib/cli.js",
+  "bin": {
+    "figma-react-icons": "./lib/cli.js"
   },
   "author": "shamin",
   "engines": {
