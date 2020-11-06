@@ -2,7 +2,7 @@
   "name": "figma-react-icons",
   "version": "0.1.0-alpha.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
